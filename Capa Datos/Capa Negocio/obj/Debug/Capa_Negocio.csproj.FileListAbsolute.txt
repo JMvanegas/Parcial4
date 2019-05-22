@@ -1,0 +1,1 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Capa Datos\Capa Negocio\obj\Debug\Capa_Negocio.csprojResolveAssemblyReference.cache
